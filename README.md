@@ -9,4 +9,4 @@ iOS engineer — TDD, modular architecture, Swift Concurrency. I build mobile ex
 - ⛩ Member of the iOS Essential Developer Academy
 - 🤖 Building agentic AI workflows into how I ship — spec-first prompting, review gates, AI-assisted TDD
 - 🇯🇵 Learning Japanese
-- ⚡ I build mechanical keyboards [current layout](https://github.com/dsmith42/corne-wireless-zmk)
+- ⚡ I build mechanical keyboards - [current layout](https://github.com/dsmith42/corne-wireless-zmk)
